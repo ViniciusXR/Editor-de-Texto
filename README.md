@@ -29,9 +29,16 @@
  
 ## Funcionalidades
 
-:heavy_check_mark: Criptografa e descriptografa arquivos com base na chave fornecida pelo usuário  
+:heavy_check_mark: Um editor de texto enriquecido 
 
-:heavy_check_mark: Utiliza o método RSA para criptografar e descriptografar arquivos 
+:heavy_check_mark: Funções como desfazer e refazer
+
+:heavy_check_mark: Função zoom
+
+:heavy_check_mark: Pode inserir a data e hora no texto
+
+:heavy_check_mark: Fornece uma grande opção de fontes
+
 
 ## Pré-requisitos
 
@@ -40,7 +47,7 @@
 
 ## Como rodar a aplicação :arrow_forward:
 
-Basta executar o arquivo CriptoFile.exe nos Releases.
+Basta executar o arquivo EditorDeTexto.exe nos Releases.
 
 
 ## Linguagens, dependencias e libs utilizadas :books:
